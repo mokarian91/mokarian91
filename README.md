@@ -51,18 +51,6 @@ As the  **Linux server administrator**  for my company, I manage deployments and
 <br/>
 <br/>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/mokarian91">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mokarian91&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mokarian91&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-<br/>
-<br/>
-
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
